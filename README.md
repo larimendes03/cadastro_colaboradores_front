@@ -1,2 +1,2 @@
-# cadastro_colaboradores_front
+# Cadastro de Colaboradores
 Cadastro simples de colaboradores e seus dependentes realizado com React
