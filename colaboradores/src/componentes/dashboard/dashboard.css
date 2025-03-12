@@ -1,0 +1,29 @@
+.bodyDashboard{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dashboard{
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    justify-content: center;
+    padding: 60px;
+    border-radius: 8px;
+    width: 300px;
+    text-align: center;
+    color: #212121;
+    box-shadow: 8px 8px 16px rgba(0,0,0,0.88);
+}
+
+.dashboard h2{
+    font-size: 32px;
+}
+
+.dashboard h3 {
+    text-align: left;
+    font-size: 20px;
+    
+}

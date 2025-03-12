@@ -1,0 +1,13 @@
+.divBotao{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.botaoCadastrar{
+  width: 150px; 
+  height: 50px; 
+  background-color: #3c7bbe;
+  color: #f2f2f2;
+  border: none;
+}

@@ -1,0 +1,9 @@
+body{
+  /* background-color: #212121; */
+  background-color: rgb(221, 210, 210);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

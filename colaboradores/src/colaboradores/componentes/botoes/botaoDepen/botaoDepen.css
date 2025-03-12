@@ -1,0 +1,13 @@
+.botaoDepen {
+    font-size: 12px;
+    padding: 4px 8px;
+    border: none;
+    background-color: #f0f0f0;
+    background-color: rgb(209, 209, 105);
+    cursor: pointer;
+}
+
+.botaoDepen:hover {
+    background-color: #e0e0e0;
+    color: black;
+}

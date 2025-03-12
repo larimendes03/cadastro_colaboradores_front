@@ -1,0 +1,16 @@
+.msgInvalid {
+    background-color: rgb(238, 43, 43);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border: 1px solid rgb(228, 118, 118);
+    width: 250px; /* largura fixa */
+    height: 50px; /* altura fixa */
+    margin: auto; /* centraliza horizontalmente */
+    position: absolute; /* remove da flow normal */
+    left: 15%; /*centraliza horizontalmente */
+    transform: translate(-50%, -50%); /* ajusta a posição */
+    text-align: center; /* centraliza o texto */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }

@@ -1,0 +1,18 @@
+button {
+    outline: none;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    padding: 0.9rem 2rem;
+    margin: 0;
+    font-size: inherit;
+    position: relative;
+    display: inline-block;
+    letter-spacing: 0.05rem;
+    font-weight: 700;
+    font-size: 13x;
+    border-radius: 500px;
+    overflow: hidden;
+    background: rgb(221, 210, 210);
+    color: #212121;
+    box-shadow: 4px 4px 4px rgba(0,0,0,0.88);
+   }

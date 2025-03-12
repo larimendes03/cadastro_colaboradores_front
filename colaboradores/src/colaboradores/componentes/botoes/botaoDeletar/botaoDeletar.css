@@ -1,0 +1,13 @@
+.botaoDeletar {
+    font-size: 12px;
+    padding: 4px 8px;
+    border: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+.botaoDeletar:hover {
+    background-color: #e0e0e0;
+    color: black;
+}

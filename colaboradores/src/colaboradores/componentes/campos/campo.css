@@ -1,0 +1,21 @@
+.campoTexto, .campoData{
+    margin: 24px 0;
+}
+
+.campoTexto label, .campoData label{
+    display: flex;
+    margin-bottom: 8px;
+    font-size: 20px;
+}
+
+.campoTexto input, .campoData input{
+    background-color: #fff;
+    box-shadow: 10px 10px 30px ;
+    width: 100%;
+    border: none;
+    font-size: 15px;
+    padding: 8px;
+    color: #212121;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
